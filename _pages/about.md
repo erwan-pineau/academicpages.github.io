@@ -9,4 +9,4 @@ redirect_from:
 
 I am a PhD student in paleoclimatology at CEREGE (France). I am interested in past climates, particularly the evolution of the ocean circulation during the Cenozoic. I use the Earth system models to better understand how the paleogeographic and climatic changes have impacted the ocean circulation and the biogeochemical cycles. 
 
-!([https](https://erwan-pineau.github.io/academic-website/images/Vague.jpg)
+![Vague](https://erwan-pineau.github.io/academic-website/images/Vague.jpg)
