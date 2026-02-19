@@ -3,7 +3,7 @@ title: "A Model Based Study of the Emergence of North Atlantic Deep Water During
 collection: publications
 category: manuscript
 permalink: 
-date: 2025
+date: 2025-05-01
 venue: 'Paleoceanography & Paleoclimatology'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024PA005020'
 citation: 'Erwan Pineau, Yannick Donnadieu, Pierre Maffre, Camille Lique, Thierry Huck, Anthony Gramoullé, Jean-Baptiste Ladant'
