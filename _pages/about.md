@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in paleoclimatology at CEREGE (France). I am interested in past climates, particularly the evolution of the ocean circulation during the Cenozoic. I use the Earth system models to better understand how the paleogeographic and climatic changes have impacted the ocean circulation and the biogeochemical cycles. 
+I am a PhD student in Paleoclimatology at CEREGE (France), specializing in Cenozoic ocean dynamics. My research focuses on the evolution of ocean circulation and its impact on biogeochemical cycles. Using Earth System Models, I investigate how major paleogeographic and climatic shifts have reshaped the marine environment throughout the Cenozoic era.
 
 ![Vague](https://erwan-pineau.github.io/academic-website/images/Vague.jpg)
