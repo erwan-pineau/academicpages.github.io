@@ -3,7 +3,7 @@ title: "Connecting the Atlantic Meridional Overturning Circulation to the Southe
 collection: publications
 category: manuscript
 permalink: 
-date: 2026
+date: 2026-01-24
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL119115'
 citation: 'Erwan Pineau, Camille Lique, David Ferreira, Thierry Huck, Jean-Baptiste Ladant, Emma Fabre, Jeanne Millot-Weil, Yannick Donnadieu'
