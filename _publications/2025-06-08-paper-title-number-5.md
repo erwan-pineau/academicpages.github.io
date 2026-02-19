@@ -1,9 +1,8 @@
 ---
-title: "Connecting the Atlantic Meridional Overturning Circulation
-to the Southern Ocean Following the Closure of Equatorial
-Seaways During the Cenozoic"
+title: "Connecting the Atlantic Meridional Overturning Circulation to the Southern Ocean Following the Closure of Equatorial Seaways During the Cenozoic"
 collection: publications
 category: manuscript
+permalink: 
 date: 2026
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL119115'
