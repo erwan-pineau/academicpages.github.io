@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-05-01
 venue: 'Paleoceanography & Paleoclimatology, AGU'
 slidesurl: ''
-paperurl: 'https://erwan-pineau.github.io/academic-website/PalPal_2025.pdf'
+paperurl: 'https://erwan-pineau.github.io/academic-website/files/PalPal_2025.pdf'
 bibtexurl: ''
 citation: 'Pineau, E., Donnadieu, Y., Maffre, P., Lique, C., Huck, T., Gramoullé, A., & Ladant, J.-B. (2025). A model based study of the emergence of North Atlantic deep water during the Cenozoic: A tale of geological and climatic forcings.'
 ---
